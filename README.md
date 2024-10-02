@@ -35,7 +35,8 @@ To run the notebook, you need the following dependencies:
 You can install these dependencies by running the following command:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib seaborn` ```
+pip install numpy pandas scikit-learn matplotlib seaborn
+```
 
 ## Conclusion
 This project demonstrates the effectiveness of different machine learning algorithms in detecting fake news. The results show the potential of machine learning in improving the accuracy of fake news detection systems.
