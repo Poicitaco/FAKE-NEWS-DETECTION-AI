@@ -42,5 +42,5 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 This project demonstrates the effectiveness of different machine learning algorithms in detecting fake news. The results show the potential of machine learning in improving the accuracy of fake news detection systems.
 
 ## Authors
-Group 11 - N02
+Poicitaco
 
